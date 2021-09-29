@@ -9,6 +9,6 @@ streamlit==0.89.0
 tramsformers==4.11.1
 PIL==0.09
 requests
-python==3.9.7
+python==-3.9.7
 matplotlib==3.43
 heroku
