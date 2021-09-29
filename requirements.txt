@@ -1,0 +1,13 @@
+tensorlow
+torch
+torchvision
+numpy
+pandas
+cv2
+streamlit
+tramsformers
+PIL
+requests
+python
+matplotlib
+heroku
